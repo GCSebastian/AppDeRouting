@@ -1,0 +1,7 @@
+{
+  "name": "AppDeRouting",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
